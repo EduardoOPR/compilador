@@ -1,0 +1,13 @@
+program exemplo ;
+	var variavel1, variavel2 : integer ;
+	var a,b,c : real;
+	var d : array[1 .. 100] of array[1 .. 100] of boolean;
+
+begin
+
+	variavel1 := 8;
+	variavel2 := variavel1;
+	a := b + c;
+	if(variavel1 > variavel2) then variavel2 := 9;
+end
+.

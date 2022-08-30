@@ -1,0 +1,7 @@
+program recusadas;
+    var a : integer;
+begin~{
+    a := ?aa´;
+} end .
+
+

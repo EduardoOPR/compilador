@@ -1,0 +1,55 @@
+program teste ;
+    
+    var cache, cache1 : array [1..100] of integer;
+    var cache3 : array [1 ..100] of array [1 ..100] of integer;
+    var cache4 : array [1 ..100] of array [1 ..100] of array [1 ..100] of integer;
+    var v1 : array [1 ..100] of array [1 ..100] of real;
+    var v2, v3, v4 : array [0 ..1] of boolean;
+    var x, B : boolean;
+    var fib : integer;
+    var a, b, c, d, e, z, l, i, A, D : integer;
+    var q, r, s : boolean;
+    var t, u, v: real;
+    var a1, a2 : integer;
+    var a3 : real;
+
+begin
+    
+    cache[a] := cache1[cache[cache3[b][0]]] + 16194894 + 61656 -66464 * 45454 / 64656;
+    cache3[c][a] := 1;
+    cache4[a][0][c] := 1;
+    a := cache[a];
+    q := 1.1 >= 1.;
+    q := q or true or true or false and true and r and v2[0];
+    a := 1;
+    i := 0;
+    a3 := t + .6 -66464.* 4.5454 / 6465.6 + 1.444 + 123. * u + 1548.3146469798 - .1 / v1[0][b];
+    s := t + .6 -66464.* 4.5454 / 6465.6 + 1.444 < 123. * u + 1548.3146469798 - .1 / v1[0][b];
+    q := 1 + a - b - d >= 1;
+    b := a + a - c + 15 -161561515;
+    q := r and s or q;
+    z := 16194894 + 61656 -66464 * 45454 / 64656;
+    t := 16194.894 + .6 -66464. * 4.5454 / 6465.6;
+    x := true;
+    B := (b * (c + d)) > (e + z - i);
+    b := 2;
+    c := a;
+    A := A * D;
+
+    while(q or q and v2[0]) do   
+    begin
+        cache[1] := cache[16194894 + 61656 -66464 * 45454 / 64656];
+        cache[i+1] := 1;
+        i := i+1;
+        if (q or v2[a + b * cache4[a][0][c]]) then
+            q := true
+        else
+            q := false;
+    end;
+
+    cache[1] := 1;
+    cache3[a][2] := 1;
+
+    if (q or true) then
+        q := true;
+end.
